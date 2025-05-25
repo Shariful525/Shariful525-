@@ -4,6 +4,9 @@
   <img src="https://raw.githubusercontent.com/Shariful525/Shariful525-/main/banner.png" alt="Banner" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shariful525&label=Visitors&color=0e75b6&style=flat" alt="Visitor badge" />
+</p>
 
 ## 💻 Web Developer
 
