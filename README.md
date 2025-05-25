@@ -1,5 +1,10 @@
 # 👋 Hi, I'm Shariful Islam
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Shariful525/Shariful525/main/banner.png" alt="Banner" />
+</p>
+
+
 ## 💻 Web Developer
 
 - 🧠 Passionate about building modern, user-friendly, and scalable web applications.
@@ -29,6 +34,12 @@
 ## 📊 GitHub Stats
 
 ![Shariful's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shariful525&show_icons=true&theme=default)
+
+---
+
+## 📈 GitHub Contribution Graph
+
+[![Shariful's GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shariful525&theme=tokyo-night)](https://github.com/Shariful525)
 
 ---
 
