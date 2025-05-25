@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Shariful Islam
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Shariful525/Shariful525-/main/banner.png" alt="Banner" />
+  <img src="https://raw.githubusercontent.com/Shariful525/Shariful525/main/banner.png" alt="Banner" />
 </p>
 
 <p align="center">
